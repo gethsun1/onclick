@@ -150,7 +150,7 @@ h6 { font-size: 16px;}
 }
 
 .browser-dot{
-	background-color: black;
+	background-color:#ebffff;
 	height: 15px;
 	width: 15px;
 	border-radius: 50%;
@@ -219,8 +219,8 @@ h6 { font-size: 16px;}
 	background-color: #78866b;
 }
 
-#purple-mode{
-	background-color: #7E4C74;
+#burgundy-mode{
+	background-color: #490909;
 }
 
 #settings-note{
